@@ -45,5 +45,5 @@
 <hr>
 <a href="https://faizanurahman17.github.io/newshivshakticargo" style="display: flex; align-items: center; justify-content: start;">
     <img src="cargo.png" height="50px" width="50px" style="margin-right: 10px;">
-    <span style="font-size: 20px; font-weight: bold;">New Shiv Shakti Cargo (for a company <span style="color: red;">"Incomplete"</span>)</span>
+    <span style="font-size: 20px; font-weight: bold;">New Shiv Shakti Cargo (for a company <span style="color: red;">"Incomplete and  only for desktop"</span>)</span>
 </a>
