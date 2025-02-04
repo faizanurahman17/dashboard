@@ -32,7 +32,7 @@
 <br>
 <hr>
 <a href="https://faizanurahman17.github.io/transection" style="display: flex; align-items: center; justify-content: start;">
-    <img src="transection.png" height="50px" width="50px" style="margin-right: 10px;">
+    <img src="transection-note.png" height="50px" width="50px" style="margin-right: 10px;">
     <span style="font-size: 20px; font-weight: bold;">Transection Note</span>
 </a>
 <br>
