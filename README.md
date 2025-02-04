@@ -1,5 +1,6 @@
 # Rahman's Project
 <br>
+<link rel="stylesheet" href="style.css">
 <a href="https://faizanurahman17.github.io/tictactoegame">
     <img src="logo.png" height="50px" width="50px">
     TIC TAC TOE
