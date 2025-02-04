@@ -15,16 +15,16 @@
 <hr>
 <a href="https://faizanurahman17.github.io/(NoiChat)" style="display: flex; align-items: center; justify-content: start;">
     <img src="chat.png" height="50px" width="50px" style="margin-right: 10px;">
-    <span style="font-size: 20px; font-weight: bold;">NoiChat (Incomplete 404)</span>
+    <span style="font-size: 20px; font-weight: bold;">NoiChat <span style="color: red;">(Incomplete 404)</span></span>
 </a>
 <br>
 <hr>
-<a href="https://faizanurahman17.github.io/(python)" style="display: flex; align-items: center; justify-content: start;">
+<!-- <a href="https://faizanurahman17.github.io/(python)" style="display: flex; align-items: center; justify-content: start;">
     <img src="terminal.png" height="50px" width="50px" style="margin-right: 10px;">
-    <span style="font-size: 20px; font-weight: bold;">PYTHON (Incomplete 404)</span>
+    <span style="font-size: 20px; font-weight: bold;">PYTHON <span style="color: red;">(Incomplete 404)</span></span>
 </a>
 <br>
-<hr>
+<hr> -->
 <a href="https://faizanurahman17.github.io/camera" style="display: flex; align-items: center; justify-content: start;">
     <img src="camera.png" height="50px" width="50px" style="margin-right: 10px;">
     <span style="font-size: 20px; font-weight: bold;">CAMERA</span>
@@ -45,5 +45,5 @@
 <hr>
 <a href="https://faizanurahman17.github.io/newshivshakticargo" style="display: flex; align-items: center; justify-content: start;">
     <img src="cargo.png" height="50px" width="50px" style="margin-right: 10px;">
-    <span style="font-size: 20px; font-weight: bold;">New Shiv Shakti Cargo (for a company "Incomplete")</span>
+    <span style="font-size: 20px; font-weight: bold;">New Shiv Shakti Cargo (for a company <span style="color: red;">"Incomplete"</span>)</span>
 </a>
