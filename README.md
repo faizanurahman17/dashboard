@@ -1,6 +1,5 @@
 # Rahman's Project
 <br>
-<link rel="stylesheet" href="style.css">
 <a href="https://faizanurahman17.github.io/tictactoegame" style="display: flex; align-items: center; justify-content: start;">
     <img src="tic-tac-toe.png" height="50px" width="50px" style="margin-right: 10px;">
     <span style="font-size: 20px; font-weight: bold;">TIC TAC TOE</span>
@@ -40,6 +39,12 @@
 <a href="https://faizanurahman17.github.io/weather-website" style="display: flex; align-items: center; justify-content: start;">
     <img src="weather.png" height="50px" width="50px" style="margin-right: 10px;">
     <span style="font-size: 20px; font-weight: bold;">Weather Website</span>
+</a>
+<br>
+<hr>
+<a href="https://faizanurahman17.github.io/calculator" style="display: flex; align-items: center; justify-content: start;">
+    <img src="calc.png" height="50px" width="50px" style="margin-right: 10px;">
+    <span style="font-size: 20px; font-weight: bold;">Theamed Calculator</span>
 </a>
 <br>
 <hr>
