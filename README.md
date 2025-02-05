@@ -1,4 +1,5 @@
 # Rahman's Project
+<link rel="stylesheet" href="style.css">
 <br>
 <a href="https://faizanurahman17.github.io/tictactoegame" style="display: flex; align-items: center; justify-content: start;">
     <img src="tic-tac-toe.png" height="50px" width="50px" style="margin-right: 10px;">
