@@ -30,7 +30,7 @@
 </a>
 <br>
 <hr>
-<a href="https://faizanurahman17.github.io/transection" style="display: flex; align-items: center; justify-content: start; color: #404040">
+<a href="https://faizanurahman17.github.io/transaction" style="display: flex; align-items: center; justify-content: start; color: #404040">
     <img src="transection-note.png" height="50px" width="50px" style="margin-right: 10px;">
     <span style="font-size: 20px; font-weight: bold;">Transaction Note</span>
 </a>
