@@ -48,6 +48,12 @@
 </a>
 <br>
 <hr>
+<a href="https://faizanurahman17.github.io/home" style="display: flex; align-items: center; justify-content: start; color: #404040">
+    <img src="home.png" height="50px" width="50px" style="margin-right: 10px;">
+    <span style="font-size: 20px; font-weight: bold;">Home</span>
+</a>
+<br>
+<hr>
 <a href="https://faizanurahman17.github.io/newshivshakticargo" style="display: flex; align-items: center; justify-content: start; color: #404040">
     <img src="cargo.png" height="50px" width="50px" style="margin-right: 10px;">
     <span style="font-size: 20px; font-weight: bold;">New Shiv Shakti Cargo <br>
